@@ -2,11 +2,17 @@
 
 - 🔭 I’m currently studant
 - 🌱 I’m currently learning JavaScript and C#
+- 👯 I’m looking to collaborate on backend projects for beginners
+- 📫 How to reach me: Instagram : https://www.instagram.com/caioou_of
+- ⚡ Fun fact: i like read books and share my knowledge 🙂
+
+
+<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
 <div>
   <a href="https://github.com/Caiodiv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caiodiv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiodiv&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caiodiv&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiodiv&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -18,7 +24,6 @@
             <img align="center" alt="Caio-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 </div>
   
-##
   
 <div>
  
