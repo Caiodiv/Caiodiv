@@ -28,7 +28,7 @@ Here are some ideas to get you started:
            <img align="center" alt="Caio-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
             <img align="center" alt="Caio-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 </div>
-          
+          ##
 <div>
  ![Snake animation](https://github.com/Caiodiv/Caiodiv/blob/output/github-contribution-grid-snake.svg)
 </div>
