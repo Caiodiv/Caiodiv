@@ -1,7 +1,7 @@
  ### Hi there, I am Caio 👋
 
 - 🔭 I’m currently studant
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on backend projects for beginners
 - 📫 How to reach me: Instagram : https://www.instagram.com/caioou_of
 - ⚡ Fun fact: i like read books and share my knowledge 🙂
