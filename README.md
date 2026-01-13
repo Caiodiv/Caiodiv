@@ -1,9 +1,9 @@
  ### Hi there, I am Caio 👋
 
 - 🔭 I’m currently studant
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Cobol
 - 👯 I’m looking to collaborate on backend projects for beginners
-- 📫 How to reach me: Instagram : https://www.instagram.com/caioou_of
+- 📫 How to reach me: Linkedin : https://www.linkedin.com/in/caio-rocha-amorim-805b33229/
 - ⚡ Fun fact: i like read books and share my knowledge 🙂
 
 
