@@ -1,70 +1,90 @@
-👋 Hey, I’m Caio Rocha Amorim  
-💻 Software Developer | 📊 IT & Systems | 🧠 Continuous Learner | 🏦 COBOL Student  
-✨ I build solutions that connect technology, business, and real-world impact.
+# 👋 Hi, I’m Caio Rocha Amorim (@Caiodiv)
+
+🔍 **Software Developer | Data & Business Analytics | Technology Enthusiast**  
+<br>
+![Profile](https://img.shields.io/badge/GitHub-Caiodiv-black?style=flat&logo=github)
+![Repositories](https://img.shields.io/badge/dynamic/json?color=orange&label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FCaiodiv)
+![Last Commit](https://img.shields.io/github/last-commit/Caiodiv/Caiodiv?style=flat&color=brightgreen)
 
 ---
 
-🚀 About Me  
-🎓 Computer Science / Systems Development student (Brazil)  
-💼 Experience in IT, Software Development, and B2B Sales (SDR)  
-🧠 Currently studying COBOL to specialize in legacy systems and financial technology  
-🔧 Strong background in frontend, backend, databases, and system documentation  
-🤝 Open to collaborate on projects involving development, automation, and enterprise systems  
-💼 Looking for Junior / Internship / Entry-level opportunities in IT and Software Development  
-⚡ Fun fact: I love learning new technologies and turning complex problems into practical solutions  
+<p align = "center"><strong>✨ I turn ideas and data into practical, efficient solutions. </strong></p>  
+
+<p align = "center"> Passionate about programming, problem-solving, and building systems that create real-world impact.  
+Currently focused on <strong>Software Development, Data Analysis, and Business Intelligence</strong>, while also studying <strong>COBOL</strong> to expand my backend and legacy systems knowledge. </p>  
 
 ---
 
-🛠️ Tech Stack  
-**Languages & Tools I use:**
+## 🚀 About Me  
 
+- 🎓 Computer Science / Systems Analysis student (UNICSUL) - 3º semester
+- 💻 Experience with software development, data analysis, and business-oriented systems  
+- 📊 Strong interest in **Data, BI, and Analytics**  
+- 🧠 Constantly learning: **Python, SQL, Java, JavaScript, React, COBOL**  
+- 🤝 Open to collaborate on **Software, Data, ETL, Dashboards, and System Automation**  
+- 💼 Looking for **Junior / Entry-level roles** in **IT, Software Development, or Data**  
+- ⚡ Fun fact: I love studying, testing new technologies, and helping others grow
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔹 Programming Languages
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cobol/cobol-original.svg" height="40"/>
 </p>
 
-🧠 **Currently Learning:**  
+### 🔹 Frameworks & Libraries
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cobol/cobol-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
+</p>
+
+### 🔹 Databases
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
+</p>
+
+### 🔹 Tools & Platforms
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
 </p>
 
 ---
 
-📂 Featured Projects  
-*(Add links as you publish your projects!)*
+## 🏆 GitHub Badges
 
-💻 Web Systems with Angular & Backend APIs  
-🔧 Database Modeling & SQL Queries  
-📊 Business Process Modeling (BPMN)  
-🧠 Technical Documentation & System Design  
-🎥 Product Demos and Technical Presentations  
+![Profile Views](https://komarev.com/ghpvc/?username=Caiodiv&label=Profile%20views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/Caiodiv?label=Followers&style=flat)
+![Stars](https://img.shields.io/github/stars/Caiodiv?label=Stars&style=flat)
 
 ---
 
-📬 Let’s Connect  
-🔗 LinkedIn: *(add your link here)*  
-📧 Email: *(add your email here)*  
+## 📂 Featured Projects
+
+🔹 **Sales & Business Dashboard** – Data visualization and insights  
+🔹 **ETL Pipeline with Python & SQL** – Data extraction, transformation, and loading  
+🔹 **CRUD System with React & Backend** – Full-stack application  
+🔹 **COBOL Academic Project** – Legacy system simulation for business processes  
 
 ---
+
+## 🌍 Connect With Me
+
+🔗 GitHub: https://github.com/Caiodiv  
+💼 LinkedIn: *https://www.linkedin.com/in/caio-rocha-amorim-805b33229/*  
+📧 Email: *caiorochamorim@gmail.com*  
 
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
-<div>
-  <a href="https://github.com/Caiodiv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caiodiv&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiodiv&layout=compact&langs_count=7&theme=aura"/>
-</div>
-   
----
-
-🚀 Always learning. Always building. Always evolving.
+<p align= "center"><i>⭐Always learning, always building.</i></p>  
